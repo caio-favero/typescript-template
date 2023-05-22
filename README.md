@@ -6,6 +6,8 @@
 
 Small description of what the repository should do
 
+Cards can be found [here](https://forthebadge.com/)
+
 # Table of contents
 
 - [Usage](#usage)
