@@ -4,11 +4,13 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "start": "tsc --watch && node dist/index.js"
+    "start": "tsc --watch && node dist/index.js",
+    "lint": "npx eslint --fix --ext .ts"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@hapi/eslint-plugin-hapi": "^4.3.6",
     "@types/node": "^20.2.1",
     "@typescript-eslint/eslint-plugin": "^5.59.6",
     "@typescript-eslint/parser": "^5.59.6",
