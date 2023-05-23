@@ -22,8 +22,5 @@
     "eslint-plugin": "^1.0.1",
     "eslint-plugin-prettier": "^4.2.1",
     "typescript": "^5.0.4"
-  },
-  "dependencies": {
-    "55tec_messaging_lib": "git+https://bitbucket.org/55TELECOM/55tec_messaging_lib.git"
   }
 }
