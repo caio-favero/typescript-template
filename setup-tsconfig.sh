@@ -1,3 +1,4 @@
+cat <<EOF >./tsconfig.json
 {
   "compilerOptions": {
     "allowJs": true,
@@ -31,3 +32,4 @@
     "**prettier*"
   ]
 }
+EOF
