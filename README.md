@@ -16,12 +16,6 @@ O script para rodar o lint é `"lint": "npx eslint --fix ./src/*",` e deve ser a
 
 - [README](#readme)
 - [Installation](#installation)
-- [Recommended configurations](#recommended-configurations)
-- [Custom configurations](#custom-configurations)
-- [Updating](#updating)
-- [Uninstallation](#uninstallation)
-- [Contributing](#contributing)
-- [License](#license)
 
 # README
 
