@@ -1,4 +1,4 @@
-# Typescript Template
+# README Template
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com)
 
@@ -38,8 +38,6 @@ Man pages have been added. Checkout `man stuff`.
 1. Install Node (preferably, version >= X.X)
 2. Install Mongo (preferably, version >= Y.Y)
 3. [Download](https://www.nerdfonts.com/font-downloads) and install ....
-
-   _Note for `stuff`._
 
    _Note for `stuff`._
 
